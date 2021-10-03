@@ -1,0 +1,149 @@
+.fsx01 {font-size: 10px;}
+.fsx02 {font-size: 11px;}
+.fsx03 {font-size: 12px;}
+.fsx04 {font-size: 14px;}
+.fsx05 {font-size: 16px;}
+.fsx06 {font-size: 18px;}
+.fsx07 {font-size: 20px;}
+.fsx08 {font-size: 23px;}
+.fsx09 {font-size: 26px;}
+.fsx10 {font-size: 29px;}
+.fsx11 {font-size: 32px;}
+.fsx12 {font-size: 35px;}
+.fsx13 {font-size: 38px;}
+.fsx14 {font-size: 48px;}
+.fsx15 {font-size: 64px;}
+.fsx16 {font-size: 96px;}
+.txdec {text-decoration: none;}
+.dfltt {font-family:Times New Roman;font-size:14px;font-weight:normal;text-decoration:normal;text-align:left;fill:black;}
+
+
+a:active {  text-decoration: underline;color: #C31B18; font-Face:verdana font-size: 12px; font-weight: bold }
+a:hover { color: #000000; font-Face:verdana font-size: 12px; font-weight: bold;  text-decoration: underline}
+a:link { color: #C31B18; font-Face:verdana font-size: 12px; font-weight: bold; text-decoration: none}
+a:visited {  text-decoration: none; color: #C31B18; font-Face:verdana font-size: 12px; font-weight: bold;}
+a:visited:hover { color: #000000; text-decoration: underline }
+
+TABLE.window
+{
+    BORDER-RIGHT: #c0c0c0 1px solid;
+    BORDER-TOP: #c0c0c0 1px solid;
+    BORDER-LEFT: #c0c0c0 1px solid;
+    BORDER-BOTTOM: #c0c0c0 1px solid
+}
+
+INPUT.button
+{
+    BORDER-RIGHT: #898989 1px solid;
+    BORDER-TOP: #f8f8f8 1px solid;
+    BORDER-LEFT: #f8f8f8 1px solid;
+    COLOR: #000000;
+    BORDER-BOTTOM: #898989 1px solid;
+    BACKGROUND-COLOR: #e2e2e2
+}
+INPUT.button:active
+{
+    BORDER-RIGHT: #f8f8f8 1px solid;
+    BORDER-TOP: #898989 1px solid;
+    BORDER-LEFT: #898989 1px solid;
+    COLOR: #000000;
+    BORDER-BOTTOM: #f8f8f8 1px solid;
+    BACKGROUND-COLOR: #e2e2e2
+}
+
+
+INPUT.text
+{
+    border:1px solid #808080; BACKGROUND-IMAGE: url('shadow.png');
+    COLOR: #000000;
+    BACKGROUND-COLOR: #ffffff;
+    TEXT-ALIGN: left
+}
+
+TEXTAREA.text
+{
+    border:1px solid #808080; BACKGROUND-IMAGE: url('shadow.png');
+    COLOR: #000000;
+    BACKGROUND-COLOR: #ffffff;
+    TEXT-ALIGN: left
+}
+
+BODY {
+scrollbar-face-color:#F9E38C;
+scrollbar-highlight-color:#F9E38C;
+scrollbar-3dlight-color:#CFCFCF;
+scrollbar-darkshadow-color:#000000;
+scrollbar-shadow-color:#808080;
+scrollbar-arrow-color:#80808F;
+scrollbar-track-color:#F6F6F6;
+}
+
+A.link
+{
+    COLOR: #AA0000;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 12px;
+    TEXT-DECORATION: NONE
+}
+A.link:active
+{
+    COLOR: #AA0000;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 12px;
+    TEXT-DECORATION: NONE
+}
+A.link:link
+{
+    COLOR: #AA0000;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 12px;
+    TEXT-DECORATION: NONE
+}
+A.link:visited
+{
+    COLOR: #AA0000;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 12px;
+    TEXT-DECORATION: NONE
+}
+A.link:hover
+{
+    COLOR: #000000;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 12x;
+    TEXT-DECORATION: UNDERLINE
+}
+A.link:visited:hover
+{
+    COLOR: #000000;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 12px;
+    TEXT-DECORATION: UNDERLINE
+}
+
+.itemBorder
+{
+    BORDER-RIGHT: #880000 2px solid;
+    BORDER-TOP: #880000 2px solid;
+    BORDER-LEFT: #880000 2px solid;
+    BORDER-BOTTOM: #880000 2px solid
+}
+.itemText
+{
+    FONT: bold 12px Verdana, Helvetica;
+    COLOR: #C31B18;
+    TEXT-DECORATION: none
+}
+.crazyBorder
+{
+    BORDER-RIGHT: #663399 2px outset;
+    BORDER-TOP: #663399 2px outset;
+    BORDER-LEFT: #663399 2px outset;
+    BORDER-BOTTOM: #663399 2px outset
+}
+.crazyText
+{
+    FONT: bold 12px Arial, Helvetica;
+    COLOR: #ffcc99;
+    TEXT-DECORATION: none
+}
